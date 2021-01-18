@@ -1,0 +1,13 @@
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.csprojAssemblyReference.cache
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.AssemblyInfoInputs.cache
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.AssemblyInfo.cs
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.csproj.CoreCompileInputs.cache
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.exe
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.deps.json
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.runtimeconfig.json
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.runtimeconfig.dev.json
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.dll
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\bin\Debug\netcoreapp3.1\buoi6OOP.pdb
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.dll
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.pdb
+C:\Users\pochi\source\repos\buoi6OOP\buoi6OOP\obj\Debug\netcoreapp3.1\buoi6OOP.genruntimeconfig.cache

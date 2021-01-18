@@ -1,0 +1,14 @@
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\bin\Debug\QLCAPHE.exe.config
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\bin\Debug\QLCAPHE.exe
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\bin\Debug\QLCAPHE.pdb
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.csprojAssemblyReference.cache
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.Properties.Resources.resources
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.SignInForm.resources
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.csproj.GenerateResource.cache
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.csproj.CoreCompileInputs.cache
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.exe
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.pdb
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.DangNhap.resources
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.Adminstrator.resources
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.Menu.resources
+C:\Users\pochi\source\repos\QLCAPHE\QLCAPHE\obj\Debug\QLCAPHE.NhanVienInfo.resources

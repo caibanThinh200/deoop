@@ -1,0 +1,12 @@
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\bin\Debug\DoAnLTWin_18dh110773.exe.config
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\bin\Debug\DoAnLTWin_18dh110773.exe
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\bin\Debug\DoAnLTWin_18dh110773.pdb
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.csprojAssemblyReference.cache
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.AccountProfile.resources
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.Login.resources
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.Properties.Resources.resources
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.TableManager.resources
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.csproj.GenerateResource.cache
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.csproj.CoreCompileInputs.cache
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.exe
+C:\Users\pochi\source\repos\DoAnLTWin_18dh110773\DoAnLTWin_18dh110773\obj\Debug\DoAnLTWin_18dh110773.pdb

@@ -1,0 +1,11 @@
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe.config
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.pdb
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csprojAssemblyReference.cache
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Form1.resources
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Properties.Resources.resources
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.GenerateResource.cache
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.CoreCompileInputs.cache
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.exe
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.pdb
+C:\Users\pochi\source\repos\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Form2.resources

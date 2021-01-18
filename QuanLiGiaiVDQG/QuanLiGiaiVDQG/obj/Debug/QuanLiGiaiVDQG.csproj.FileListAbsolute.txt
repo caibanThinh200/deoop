@@ -1,0 +1,17 @@
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.csprojAssemblyReference.cache
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.Properties.Resources.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.SignUpForm.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.csproj.GenerateResource.cache
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.csproj.CoreCompileInputs.cache
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\bin\Debug\QuanLiGiaiVDQG.exe.config
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\bin\Debug\QuanLiGiaiVDQG.exe
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\bin\Debug\QuanLiGiaiVDQG.pdb
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.exe
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.pdb
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.AddPlayerForm.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.PlayerList.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.Result.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.FormTeamProfile.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.ListTeam.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.MatchForm.resources
+C:\Users\pochi\source\repos\QuanLiGiaiVDQG\QuanLiGiaiVDQG\obj\Debug\QuanLiGiaiVDQG.MatchList.resources
