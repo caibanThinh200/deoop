@@ -18,5 +18,15 @@ namespace ConsoleApp2
             this.width = width;
             this.length = length;
         }
+        public override double getArea()
+        {
+            return base.getArea();
+            return (width + length) * 2;
+        }
+        public override double getParameter()
+        {
+            return base.getParameter();
+            return width * length;
+        }
     }
 }
